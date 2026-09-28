@@ -1,0 +1,20 @@
+/* Dark background */
+body {
+    background-color: #0d0d0d !important;
+    color: #e6e6e6 !important;
+}
+
+/* Card look */
+div {
+    border-radius: 8px;
+}
+
+/* Input fields */
+.stTextInput, .stTextArea, .stSelectbox {
+    color: white !important;
+}
+
+/* Section headers */
+h1, h2, h3 {
+    color: #4ea1ff !important;
+}
